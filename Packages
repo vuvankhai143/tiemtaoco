@@ -12,7 +12,7 @@ Provides: appsync, net.angelxwind.appsyncunified
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Name: Cài đặt AppSync Unified
 Installed-Size: 636
-Depiction: http://localhost/tiemtaoco/depiction/cai-dat-appsync-unified/
+Depiction: http://tiemtaoco.com/depiction/cai-dat-appsync-unified/
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
 Size: 51658
 MD5sum: 536009a11dad57e48a5563224eaffaff
@@ -29,8 +29,8 @@ Architecture: iphoneos-arm
 Description: Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
  Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
 Name: Fix đăng nhập AppStore iOS 6
-Depiction: http://localhost/tiemtaoco/depiction/fix-dang-nhap-appstore-ios-6/
-Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-108.png
+Depiction: http://tiemtaoco.com/depiction/fix-dang-nhap-appstore-ios-6/
+Icon: http://repo.tiemtaoco.com/icons/tweak-108.png
 Filename: ./debs/tomkids.fixloginicloudios6_1.0_iphoneos-arm.deb
 Size: 2000008
 MD5sum: 001efa966d3c52a62d2201f011a503b3
@@ -46,8 +46,8 @@ Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0)
 Architecture: iphoneos-arm
 Description: Cai dat hien thi thoi tiet tren man hinh khoa va Notification cho IOS 6. Lu y can cai weepreferenceloader truoc
 Name: Fix hiển thị thời tiết
-Depiction: http://localhost/tiemtaoco/depiction/fix-hien-thi-thoi-tiet/
-Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-107.png
+Depiction: http://tiemtaoco.com/depiction/fix-hien-thi-thoi-tiet/
+Icon: http://repo.tiemtaoco.com/icons/tweak-107.png
 Filename: ./debs/com.weather.tweak_1.3_iphoneos-arm.deb
 Size: 177784
 MD5sum: 42e623df487545a52b3b5d57eda56412
@@ -64,7 +64,7 @@ Architecture: iphoneos-arm
 Description: Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
  Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
 Name: Fix sử dụng Facebook
-Depiction: http://localhost/tiemtaoco/depiction/fix-su-dung-facebook/
+Depiction: http://tiemtaoco.com/depiction/fix-su-dung-facebook/
 Filename: ./debs/fbfix_1.0_iphoneos-arm.deb
 Size: 21150
 MD5sum: 7d8d38200be857531a3c8c1637cd3e0d
@@ -81,7 +81,7 @@ Architecture: iphoneos-arm
 Description: Ports Apple's GrandSlam Authentication protocol to iOS versions prior to iOS 9. Fixes Apple ID login related endpoints that contain your account credentials. After you receive your verification code, enter ONLY that in the password field. You do NOT need to enter it after your password.
 Name: GSAPort – Fix đăng nhập iCloud
 Installed-Size: 3552
-Depiction: http://localhost/tiemtaoco/depiction/gsaport-fix-dang-nhap-icloud/
+Depiction: http://tiemtaoco.com/depiction/gsaport-fix-dang-nhap-icloud/
 Filename: ./debs/com.podpod123.gsaport_1.0-12+debug_iphoneos-arm.deb
 Size: 1888668
 MD5sum: b691e0a8ac5a3394c3784b42417eb7a9
@@ -100,8 +100,8 @@ Conflicts: bag.xml.tuberepair
 Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
 Name: TubeReplacer – Fix xem YouTube
 Installed-Size: 2984
-Depiction: http://localhost/tiemtaoco/depiction/tubereplacer-fix-xem-youtube/
-Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-103.png
+Depiction: http://tiemtaoco.com/depiction/tubereplacer-fix-xem-youtube/
+Icon: http://repo.tiemtaoco.com/icons/tweak-103.png
 Filename: ./debs/dev.preloading.tubereplacer_2.0.0_iphoneos-arm.deb
 Size: 1056050
 MD5sum: 78f876f871cfd55ce8c7acade4fb74e5
@@ -120,7 +120,7 @@ Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Name: WeePreferenceLoader
-Depiction: http://localhost/tiemtaoco/depiction/weepreferenceloader/
+Depiction: http://tiemtaoco.com/depiction/weepreferenceloader/
 Filename: ./debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
 Size: 34562
 MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524

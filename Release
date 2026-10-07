@@ -6,12 +6,12 @@ Codename: tiemtaoco
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Tweak và ứng dụng cho iOS cổ
-Date: Wed, 07 Oct 2026 09:00:21 UTC
+Date: Wed, 07 Oct 2026 09:05:03 UTC
 MD5Sum:
- 5d4c686368a38e572573c41728b34126 6505 Packages
- f423da3b81e9614daa16131f5d8d120e 2530 Packages.gz
- e60ee040560d310c649275a273e69047 2750 Packages.bz2
+ 3954d45545e7b4a2f78e4ad88f9a8179 6421 Packages
+ adf2d3d05076672060639280124c4ffe 2511 Packages.gz
+ c4409986d45b39692f0a435839e1215a 2723 Packages.bz2
 SHA256:
- e64b9aeaa1bad70259a7b2f4cb43bd2827bac5d6d36bd84c49ff3195c7abe7f9 6505 Packages
- 2c5cf6a6ea7539f9d2e42d7fcdf8e410e43f66bdd0cddbd8ca170efe31087d5d 2530 Packages.gz
- bca043240877e345e1fc53b4723ec00327ec8bf0cec75221fd95fd238a663ad2 2750 Packages.bz2
+ 008c0c8ded589e60a958788ea1486cb85e9a388154ec1af3dd09d6ef1b281aaa 6421 Packages
+ 3125c255e53d76e5394b524f307bda6708a761efc3abe05227c1a4fdf640cd4d 2511 Packages.gz
+ 32fbf7dba0c417ecbf7b86192cb4eab7471674aa51cbf26b06ee1c6c3956f97c 2723 Packages.bz2
