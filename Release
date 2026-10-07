@@ -1,0 +1,17 @@
+Origin: Tiệm Táo Cổ
+Label: Tiệm Táo Cổ
+Suite: stable
+Version: 1.0
+Codename: tiemtaoco
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Tweak và ứng dụng cho iOS cổ
+Date: Wed, 07 Oct 2026 08:27:41 UTC
+MD5Sum:
+ 5d4c686368a38e572573c41728b34126 6505 Packages
+ f423da3b81e9614daa16131f5d8d120e 2530 Packages.gz
+ e60ee040560d310c649275a273e69047 2750 Packages.bz2
+SHA256:
+ e64b9aeaa1bad70259a7b2f4cb43bd2827bac5d6d36bd84c49ff3195c7abe7f9 6505 Packages
+ 2c5cf6a6ea7539f9d2e42d7fcdf8e410e43f66bdd0cddbd8ca170efe31087d5d 2530 Packages.gz
+ bca043240877e345e1fc53b4723ec00327ec8bf0cec75221fd95fd238a663ad2 2750 Packages.bz2

@@ -1,0 +1,128 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Section: Tweaks
+Author: Karen/あけみ, Linus Yang
+Maintainer: Karen/あけみ
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Architecture: iphoneos-arm
+Description: Cho phép cài ứng dụng IPA chưa ký trên máy đã jailbreak
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Homepage: https://cydia.akemi.ai/
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Name: Cài đặt AppSync Unified
+Installed-Size: 636
+Depiction: http://localhost/tiemtaoco/depiction/cai-dat-appsync-unified/
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+
+Package: tomkids.fixloginicloudios6
+Version: 1.0
+Section: Tweaks
+Author: Tomkids
+Maintainer: Tomkids
+Depends: mobilesubstrate, firmware (>= 2.0), mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<< 9.0)
+Architecture: iphoneos-arm
+Description: Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
+ Cai cac tweaks ho tro dang nhap icloud va appstore tren ios 6
+Name: Fix đăng nhập AppStore iOS 6
+Depiction: http://localhost/tiemtaoco/depiction/fix-dang-nhap-appstore-ios-6/
+Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-108.png
+Filename: ./debs/tomkids.fixloginicloudios6_1.0_iphoneos-arm.deb
+Size: 2000008
+MD5sum: 001efa966d3c52a62d2201f011a503b3
+SHA1: 7e390355d55eec4af8dde68d5f51b5bd8179e1e8
+SHA256: 561c7d69f44a718cf208d5413c5fb6b29fce5f1f7bbdff840c3043da58703659
+
+Package: com.weather.tweak
+Version: 1.3
+Section: Tweaks
+Author: Tomkids
+Maintainer: Tomkids
+Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0), mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
+Architecture: iphoneos-arm
+Description: Cai dat hien thi thoi tiet tren man hinh khoa va Notification cho IOS 6. Lu y can cai weepreferenceloader truoc
+Name: Fix hiển thị thời tiết
+Depiction: http://localhost/tiemtaoco/depiction/fix-hien-thi-thoi-tiet/
+Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-107.png
+Filename: ./debs/com.weather.tweak_1.3_iphoneos-arm.deb
+Size: 177784
+MD5sum: 42e623df487545a52b3b5d57eda56412
+SHA1: 0658e394f93c7a7cf873a28870d5d55a2afe5b33
+SHA256: 9c934768c4fb39b2b0fea5124eab025fd916bee15a6662c5e8abbbc9348cad5d
+
+Package: fbfix
+Version: 1.0
+Section: Tweaks
+Author: Tomkids
+Maintainer: Tomkids
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<= 10.3.4)
+Architecture: iphoneos-arm
+Description: Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
+ Fix dang nhap va su dung facebook cho ios 6 - 10. Bao gom fbcrashfix & fbintegrationfix
+Name: Fix sử dụng Facebook
+Depiction: http://localhost/tiemtaoco/depiction/fix-su-dung-facebook/
+Filename: ./debs/fbfix_1.0_iphoneos-arm.deb
+Size: 21150
+MD5sum: 7d8d38200be857531a3c8c1637cd3e0d
+SHA1: 1432324984b1722c236a7c50af3440e5f82ad064
+SHA256: 49f18ae2270ea563f95d14242530d18bce56d2eac8f5b3a2e9f17d1f2ec6263a
+
+Package: com.podpod123.gsaport
+Version: 1.0-12+debug
+Section: Tweaks
+Author: Pod <pod@podpod123.com>
+Maintainer: Pod <pod@podpod123.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), firmware (<< 9.0)
+Architecture: iphoneos-arm
+Description: Ports Apple's GrandSlam Authentication protocol to iOS versions prior to iOS 9. Fixes Apple ID login related endpoints that contain your account credentials. After you receive your verification code, enter ONLY that in the password field. You do NOT need to enter it after your password.
+Name: GSAPort – Fix đăng nhập iCloud
+Installed-Size: 3552
+Depiction: http://localhost/tiemtaoco/depiction/gsaport-fix-dang-nhap-icloud/
+Filename: ./debs/com.podpod123.gsaport_1.0-12+debug_iphoneos-arm.deb
+Size: 1888668
+MD5sum: b691e0a8ac5a3394c3784b42417eb7a9
+SHA1: 4fdbf6dff69e6ea7b0da303f430b98d4190a32a5
+SHA256: 96badde6d51104aa302859508b43769edfaeb7be3eb08e962023f53599a137bd
+
+Package: dev.preloading.tubereplacer
+Version: 2.0.0
+Section: Tweaks
+Author: Preloading <me@preloading.dev>
+Maintainer: Preloading <me@preloading.dev>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Architecture: iphoneos-arm
+Description: A fix for YouTube with sign-in.
+Conflicts: bag.xml.tuberepair
+Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Name: TubeReplacer – Fix xem YouTube
+Installed-Size: 2984
+Depiction: http://localhost/tiemtaoco/depiction/tubereplacer-fix-xem-youtube/
+Icon: http://vuvankhai143.github.io/tiemtaoco/icons/tweak-103.png
+Filename: ./debs/dev.preloading.tubereplacer_2.0.0_iphoneos-arm.deb
+Size: 1056050
+MD5sum: 78f876f871cfd55ce8c7acade4fb74e5
+SHA1: ecbc449f1978656e64930c4f11dd683664fa75f9
+SHA256: 7786f3ff3973f5a28cbe041f6d713faee4296d14b5b04adfcb7ce57fac2e1901
+
+Package: com.arichardson.weepreferenceloader
+Version: 1.1
+Section: Tweaks
+Author: Andrew Richardson <andrewr114@gmail.com>
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: A framework to easily add preferences to the Notifications settings.
+Priority: extra
+Homepage: http://modmyi.com/info/weepreferenceloader.php
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Name: WeePreferenceLoader
+Depiction: http://localhost/tiemtaoco/depiction/weepreferenceloader/
+Filename: ./debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
